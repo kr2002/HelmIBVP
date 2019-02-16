@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Helmholtz: Reconstruction algorithm for an inverse 
+% HelmIBVP:  Reconstruction algorithm for an inverse 
 %            coefficient problem to the Helmholtz 
 %            equation.
 %            
